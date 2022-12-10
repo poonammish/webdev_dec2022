@@ -1,0 +1,10 @@
+/* external css */
+.content{
+    color:black;
+}
+#external{
+    color:brown;
+}
+*{
+    font-weight: bold;
+}
