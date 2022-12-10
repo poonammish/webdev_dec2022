@@ -1,0 +1,148 @@
+/* signup features */
+.firstdiv{
+    color:#ffffff;
+    position:absolute;
+    width:600px;
+    height:144px;
+    left:202px;
+    font-family:'inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 64px;
+    line-height: 200px;
+}
+/* firstname features */
+.c-name{
+    color:#ffffff;
+    position:absolute;
+    width:112px;
+    height:29px;
+    left:202px;
+    top:278px;
+}
+/* emailid features */
+.c-email{
+    color:#ffffff;
+    position:absolute;
+    width:60px;
+    height:29px;
+    left:202px;
+    top:352px;
+}
+/* password features */
+.c-pass{
+    color:#ffffff;
+    position:absolute;
+    width:109px;
+    height:29px;
+    left:202px;
+    top:426px;
+}
+/* confirm pass */
+.c-cpass{
+    color:#ffffff;
+    position:absolute;
+    width:244px;
+    height:29px;
+    left:202px;
+    top:500px;
+}
+/* dob */
+.c-dob{
+    color:#ffffff;
+    position:absolute;
+    width:244px;
+    height:58px;
+    left:202px;
+    top:574px;
+}
+/* student */
+.c-student{
+
+    color:#ffffff;
+    position:absolute;
+    width:244px;
+    height:29px;
+    left:190px;
+    top:650px;
+}
+/* employee */
+.c-employee{
+    color:#ffffff;
+    position:absolute;
+    width:244px;
+    height:29px;
+    left: 320px;
+    top:650px;
+}
+/* terms */
+.c-terms{
+    color:#ffffff;
+    position:absolute;
+    width:430px;
+    height:29px;
+    left:190px;
+    top:709px;
+}
+/* submit */
+.c-submit{
+    position:absolute;
+    width:81px;
+    height:33px;
+    left:190px;
+    top:810px;
+    font-family:'inter';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 22px;
+    line-height: 29px;
+}
+.c-box{
+    position:absolute;
+    width:226px;
+    height:58px;
+    font-size: 30px;
+}
+body{
+    background:#000000;
+}
+/* 2nd section */
+.section-class{
+    width:1728px;
+    height:1117px;
+    position:absolute;
+    top:0px;
+    left:0px;
+    background: #000000;
+}
+/* 1st section */
+.section1{
+    box-sizing: border-box;
+    width:21px;
+    height:21px;
+    left:198px;
+    top:713px;
+    position:absolute;
+    border:1px solid #ffffff;
+}
+/* common class */
+.main{
+    font-family:'inter';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 24px;
+    line-height: 29px;
+    color:#ffffff;
+}
+/* common class for input type */
+.text-line{
+    background-color: transparent;
+    color: #eeeeee;
+    border-bottom: solid #eeeeee;
+    outline:none;
+    outline-style: none;
+}
+.c-box:hover{
+    background-color: rgb(88, 246, 88);
+    cursor:pointer;
+}
